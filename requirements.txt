@@ -1,5 +1,6 @@
 streamlit
 transformers
+torch
 pdfplumber
 openai
 python-docx
