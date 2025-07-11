@@ -3,5 +3,5 @@ transformers
 torch==2.5.1
 pdfplumber
 openai
-sentencepiece==0.1.99
+sentencepiece>=0.1.99,<0.2.0 --only-binary :all:
 protobuf
