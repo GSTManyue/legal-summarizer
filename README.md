@@ -1,2 +1,3 @@
-# legal-summarizer
-automate the summarization of lengthy Supreme Court orders, and also batch process multiple orders at once.
+# GSTManyue Legal Summarizer
+
+This is a desktop app for summarizing Supreme Court orders.
