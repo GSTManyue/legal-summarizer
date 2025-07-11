@@ -1,6 +1,7 @@
-streamlit
-transformers
-torch==2.5.1
-pdfplumber
-protobuf
-openai
+streamlit==1.35.0
+transformers==4.41.1
+torch==2.3.0
+sentencepiece==0.1.99
+pdfplumber==0.10.4
+protobuf==4.25.3
+openai==1.34.0
