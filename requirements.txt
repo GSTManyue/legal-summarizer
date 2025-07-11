@@ -4,3 +4,5 @@ torch
 pdfplumber
 openai
 python-docx
+sentencepiece
+protobuf
