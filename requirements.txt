@@ -3,3 +3,4 @@ transformers
 torch==2.5.1
 pdfplumber
 protobuf
+openai
